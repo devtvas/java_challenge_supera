@@ -28,6 +28,9 @@ Função deverá receber uma string contendo o valor de ohms a ser convertido em
 
 ## Desafio 2
 
+Dado uma matriz N x N, retorne os valores organizados dos elementos mais externos para os mais
+internos, em sentido horário.
+
 ![desafio snail](image.png)
 
 ## Desafio 3
